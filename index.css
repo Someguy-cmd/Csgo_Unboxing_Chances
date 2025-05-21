@@ -1,0 +1,9 @@
+.kleur {
+    background-color: red;
+}
+
+.Foto_achtergrond {
+    background: url("https://images.steamusercontent.com/ugc/90469956947671200/8D80B9D784FC087A12C7FB9C78049021582BF8F9/");
+    z-index: 1;
+}
+
