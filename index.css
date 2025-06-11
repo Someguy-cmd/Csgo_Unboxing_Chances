@@ -1,5 +1,9 @@
-.kleur {
-    background-color: red;
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    width: 30vw;
 }
 
 .Foto_achtergrond {
@@ -7,3 +11,22 @@
     z-index: 1;
 }
 
+.Foto_achtergrond_recoil_case {
+    width: 225px;
+}
+
+.Verplaatsing {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    width: 100vw;
+    height: 100vh;
+}
+
+.Verplaatsing2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
